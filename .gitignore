@@ -1,0 +1,29 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Pipeline runtime outputs (large / generated)
+python/proteinData/
+python/aminoData/
+python/contData/
+python/pipeline.log
+
+# MATLAB generated outputs
+matlab/aminoData/
+matlab/aminoCont/
+matlab/*.mat
+matlab/logfile.txt
+
+# OS
+.DS_Store
+Thumbs.db

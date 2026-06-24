@@ -1,0 +1,102 @@
+---
+layout: post
+title:  "Amino GLY"
+author:  Mellean
+subtitle: "The free-energy"
+tags: amino-acid
+category: amino
+visualworkflow: false
+---
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
+![Image](../../../../../images/aadensity.png)
+
+# Amino GLY
+
+
+ SAMPLE SIZE: 4066
+
+
+
+|     | B-factor |
+| --- | --- |
+| Mean | 19.58 |
+| Median | 15.51 |
+| Variance | 210.67 |
+| Standard deviation | 14.51 |
+| Skewness | 3.22 |
+| Kurtosis | 21.47 |
+
+
+
+
+|     | C-CA | N-CA | peptid plane |
+| --- | --- | --- | --- |
+| Mean | 2.02 | 1.81 | 1.57 |
+| Median | 1.52 | 1.46 | 1.33 |
+| Variance | 1.41 | 0.81 | 0.47 |
+| Standard deviation | 1.19 | 0.90 | 0.69 |
+| Skewness | 2.18 | 2.72 | 3.49 |
+| Kurtosis | 6.20 | 9.38 | 16.45 |
+| corrcoef | 1.00 | 0.65 | 0.14 |
+| corrcoef | 0.65 | 1.00 | 0.24 |
+| corrcoef | 0.14 | 0.24 | 1.00 |
+
+
+
+
+|     | PHI | PSI |
+| --- | --- | --- |
+| Mean | -71.91 | 29.41 |
+| Median | -64.71 | 5.51 |
+| R Length | 0.19 | 0.06 |
+| Variance | 0.81 | 0.94 |
+| Standard deviation | 1.27 | 1.37 |
+| Standard deviation 0 | 1.82 | 2.39 |
+| Skewness | -0.23 | -0.44 |
+| Kurtosis | 0.35 | 0.01 |
+
+### Inferential Statistics for $$\phi$$-$$\psi$$
+
+Tests for Uniformity
+
+- Rayleigh Test, P = 0.00 0.00
+- Omnibus Test,  P = 0.00 0.00
+- Rao Spacing Test,  P = 0.50 0.50
+- V Test (r = 0),  P = 0.00 0.00
+### Measures of Association $$\phi$$-$$\psi$$
+
+Circular-Circular Association
+- Circ-circ corr phi-psi coeff/pval:	-0.24	 0.000
+- Circ-line corr phi-C-CA coeff/pval:	0.19	 0.000
+- Circ-line corr phi-N-CA coeff/pval:	0.11	 0.000
+- Circ-line corr psi-C-CA coeff/pval:	0.16	 0.000
+- Circ-line corr psi-N-CA coeff/pval:	0.09	 0.000
+### Statistics $$\chi_1$$
+
+|     | CHI_1 |
+| --- | --- |
+| Mean resultant vector | 112.81 |
+| Median | 112.81 |
+| R Length | 0.02 |
+| Variance | 0.98 |
+| Standard deviation | 1.40 |
+| Standard deviation 0| 2.77 |
+| Skewness | -0.01 |
+| Kurtosis | 0.01 |
+
+
+
+### Inferential Statistics $$\chi_1$$
+Tests for Uniformity
+
+- Rayleigh Test, 	 P = 0.16
+- Omnibus Test, 	 P = 0.31
+- Rao Spacing Test, 	 P = 0.50
+- Circ-circ corr phi-chi1 coeff/pval:	0.00	 0.788
+- Circ-circ corr psi-chi1 coeff/pval:	0.00	 0.889
+
+
+# $$\phi$$ & $$\psi$$
+![Image](../../../../../images/GLY_Rama_phipsi.jpg)
+![Image](../../../../../images/GLY_Rama_phipsiGrad.jpg)
