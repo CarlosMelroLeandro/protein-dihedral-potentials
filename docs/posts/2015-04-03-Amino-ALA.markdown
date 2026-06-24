@@ -8,9 +8,7 @@ category: amino
 visualworkflow: false
 ---
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-![Image](../../../../../images/aadensity.png)
+![Image](../images/aadensity.png)
 
 # Amino ALA
 
@@ -99,5 +97,5 @@ Tests for Uniformity
 
 
 # $$\phi$$ & $$\psi$$
-![Image](../../../../../images/ALA_Rama_phipsi.jpg)
-![Image](../../../../../images/ALA_Rama_phipsiGrad.jpg)
+![Image](../images/ALA_Rama_phipsi.jpg)
+![Image](../images/ALA_Rama_phipsiGrad.jpg)

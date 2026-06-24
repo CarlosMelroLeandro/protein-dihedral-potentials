@@ -7,9 +7,7 @@ tags: amino-acid
 category: amino
 visualworkflow: false
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-![Image](../../../../../images/aadensity.png)
+![Image](../images/aadensity.png)
 
 # Amino VAL
 
@@ -126,12 +124,12 @@ Tests for Uniformity
 
 
 # $$\phi$$ & $$\psi$$
-![Image](../../../../../images/VAL_Rama_phipsi.jpg)
-![Image](../../../../../images/VAL_Rama_phipsiGrad.jpg)
+![Image](../images/VAL_Rama_phipsi.jpg)
+![Image](../images/VAL_Rama_phipsiGrad.jpg)
 
 
 # $$\chi_1$$
-![Image](../../../../../images/VAL_Rama_phichi1.jpg)
-![Image](../../../../../images/VAL_Rama_Grad_psichi1.jpg)
-![Image](../../../../../images/VAL_Rama_psichi1.jpg)
-![Image](../../../../../images/VAL_Rama_Grad_phichi1.jpg)
+![Image](../images/VAL_Rama_phichi1.jpg)
+![Image](../images/VAL_Rama_Grad_psichi1.jpg)
+![Image](../images/VAL_Rama_psichi1.jpg)
+![Image](../images/VAL_Rama_Grad_phichi1.jpg)

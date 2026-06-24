@@ -7,9 +7,7 @@ tags: amino-acid
 category: amino
 visualworkflow: false
 ---
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-
-![Image](../../../../../images/aadensity.png)
+![Image](../images/aadensity.png)
 
 # Amino LYS
 
@@ -181,27 +179,27 @@ Tests for Uniformity
 
 
 # $$\phi$$ & $$\psi$$
-![Image](../../../../../images/LYS_Rama_phipsi.jpg)
-![Image](../../../../../images/LYS_Rama_phipsiGrad.jpg)
+![Image](../images/LYS_Rama_phipsi.jpg)
+![Image](../images/LYS_Rama_phipsiGrad.jpg)
 
 
 # $$\chi_1$$
-![Image](../../../../../images/LYS_Rama_phichi1.jpg)
-![Image](../../../../../images/LYS_Rama_Grad_psichi1.jpg)
-![Image](../../../../../images/LYS_Rama_psichi1.jpg)
-![Image](.../../../../../images/LYS_Rama_Grad_phichi1.jpg)
+![Image](../images/LYS_Rama_phichi1.jpg)
+![Image](../images/LYS_Rama_Grad_psichi1.jpg)
+![Image](../images/LYS_Rama_psichi1.jpg)
+![Image](../images/LYS_Rama_Grad_phichi1.jpg)
 
 
 # $$\chi_2$$
-![Image](../../../../../images/LYS_Rama_chi1chi2.jpg)
-![Image](../../../../../images/LYS_Rama_Gradchi1chi2.jpg)
+![Image](../images/LYS_Rama_chi1chi2.jpg)
+![Image](../images/LYS_Rama_Gradchi1chi2.jpg)
 
 
 # $$\chi_3$$
-![Image](.../../../../../images/LYS_Rama_chsi2chi3.jpg)
-![Image](../../../../../images/LYS_Rama_Gradchsi2chi3.jpg)
+![Image](../images/LYS_Rama_chsi2chi3.jpg)
+![Image](../images/LYS_Rama_Gradchsi2chi3.jpg)
 
 
 # $$\chi_4$$
-![Image](../../../../../images/LYS_Rama_chi3chi4.jpg)
-![Image](../../../../../images/LYS_Rama_Gradchi3chi4.jpg)
+![Image](../images/LYS_Rama_chi3chi4.jpg)
+![Image](../images/LYS_Rama_Gradchi3chi4.jpg)
